@@ -1,0 +1,125 @@
+.logo{
+    display: flex;
+}
+.barre-de-navigation{
+    display: flex;
+    background-color: #d35649;
+}
+.navlink{
+    margin: auto;
+    padding: 2%;
+    padding-left: 65%;
+    font-size: 20px;
+}
+.icone{
+    filter: invert(100%);
+}
+.contenue{
+    background-image: url(../Assets/Images/group-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 22%;  
+    text-align: center;   
+}
+.barre-de-recherche{
+    background-color: rgba(250, 250, 250, 0.5);
+    width: 60%;
+    text-align: center;
+    height: auto;
+    padding: 3%;
+}
+.sous-titre{
+    padding-left: 500px;
+    color: #d35649;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.section11{
+    padding-right: 50%;
+    text-align: center;
+    padding-bottom: 2%;
+}
+.section12{
+    padding-left: 50%;
+    text-align: center;
+    margin-top: -22%;
+}
+.section21{
+    background-color: #d35649;
+    display: flex;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.texte{
+    padding-left: 2%;
+}
+.ronde{
+    border-radius: 50%;
+}
+.photo1{
+    padding-left: 310px;
+}
+.section22{
+    background-color: #98a5a5;
+    display: flex;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+}
+.photo2{
+    padding-left: 24%;
+}
+.section23{
+    background-color: #509bd7;
+    display: flex;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.photo3{
+    padding-left: 48%;
+}
+.minitableau{
+    display: flex;
+    padding-top: 3%;
+}
+.localisation{
+    filter: invert(100%);
+}
+.section3{
+    background-color: black;
+}
+.section31{
+    display: flex;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.subscribe{
+    padding-left: 8%;
+    text-align: center;
+    font-size: small;
+}
+.contact{
+    padding-left: 12%;
+    text-align: center;
+    font-size: small;
+}
+.about{
+    padding-left: 15%;
+    text-align: center;
+    font-size: small;
+}
+.pied-de-page{
+    display: flex;
+    background-color: #1f1f1f;
+}
+.icones{
+    justify-content: space-between;
+    padding-right: 3%;
+}
+.text{
+    float: inline-end;
+    padding-left: 80%;
+    font-size: x-small;
+}
